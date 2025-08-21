@@ -1,0 +1,10 @@
+{
+  "name": "DeveloperRetroGames SHOP",
+  "server": "http",
+  "urls": [
+    {
+      "name": "Jogos NSP",
+      "url": "https://DeveloperRetroGames.github.io/tinfoil-shop/jogos.json"
+    }
+  ]
+}
